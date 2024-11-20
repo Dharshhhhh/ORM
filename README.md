@@ -23,12 +23,27 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 customers.
 
 ## PROGRAM
+'''
+admin.py
 
-Include your code here
+class shad(admin.ModelAdmin);
+        list_display = ('loan_id','loan_amt','cust_acno','cust_name')
+'''
+'''
+models.py
+class bankloan(models.Model);
+    loan_id = models.IntegerField(primary_key=True)
+    loan_type = models.Charfield(max_length=10)
+    loan_amt = models.IntegerField
+    cust_acno = models.IntegerField
+    cust_name = models.CharField(max_length=50)
+'''
+
+
 
 ## OUTPUT
-
-Include the screenshot of your admin page.
+![alt text](loopie1.jpg)
+![alt text](loopie2.jpg)
 
 
 ## RESULT
