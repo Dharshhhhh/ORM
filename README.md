@@ -5,8 +5,7 @@
 To develop a Django application to store and retrieve data from a Bank database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-
-Include your ER diagram here
+![ER dia](https://github.com/user-attachments/assets/6b848a7a-89fc-4dcc-9556-9df70dd5a591)
 
 ## DESIGN STEPS
 
