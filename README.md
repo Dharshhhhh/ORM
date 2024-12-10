@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from a Bank database 
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+![ER dia](https://github.com/user-attachments/assets/ff87e838-8987-4af5-be9f-eef3944ce20a)
+
 
 ## DESIGN STEPS
 
